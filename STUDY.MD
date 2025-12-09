@@ -1,5 +1,6 @@
 # THE DEMISE OF VANITY METRICS:
 ## A Reflective Study on the Evolution of Marketing Measurement and the Imperative for Data Science or A Reflective Study: From Vanity Metrics to Probabilistic Decision-Making in Marketing
+#(How Marketing Must Evolve From Mythology to Data Science in the Age of AI)
 ### *A Study by Nuno Lopes*
 
 ---

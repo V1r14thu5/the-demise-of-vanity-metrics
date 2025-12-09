@@ -1,10 +1,10 @@
 # THE DEMISE OF VANITY METRICS:
-## Why Marketing Must Evolve Into a Data Science Discipline
+## A Reflective Study on the Evolution of Marketing Measurement and the Imperative for Data Science or A Reflective Study: From Vanity Metrics to Probabilistic Decision-Making in Marketing
 ### *A Whitepaper by Nuno Lopes*
 
 ---
 
-## EXECUTIVE SUMMARY
+## ABSTRACT
 
 For over three decades, marketing has been guided less by measurement and more by mythology. It began in the disciplined world of direct response, where results were measurable, forecasts were expected, and strategy lived or died by its numbers. Slowly, this devolved into a culture built on dashboards, vanity metrics, and opaque algorithmic speculation.
 
